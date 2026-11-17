@@ -3,9 +3,13 @@
     "name": "GHOST MODE",
     "slug": "ghost-mode",
     "version": "1.0.0",
-    "orientation": "portrait",
+    "orientation": "default",
     "userInterfaceStyle": "dark",
     "newArchEnabled": true,
+    "web": {
+      "bundler": "metro",
+      "output": "static"
+    },
     "android": {
       "package": "com.sellurway.ghostmode",
       "permissions": []
