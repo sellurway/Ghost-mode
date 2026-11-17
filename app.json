@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "GHOST MODE",
+    "slug": "ghost-mode",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "newArchEnabled": true,
+    "android": {
+      "package": "com.sellurway.ghostmode",
+      "permissions": []
+    },
+    "ios": {
+      "bundleIdentifier": "com.sellurway.ghostmode",
+      "supportsTablet": true
+    },
+    "splash": {
+      "backgroundColor": "#08090D"
+    }
+  }
+}
